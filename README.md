@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![GitHub followers](https://img.shields.io/github/followers/SlyderSlash)
+![GitHub followers](https://img.shields.io/github/followers/SlyderSlash) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC_RuSv1RvzZebVuo3EUYHSA?label=YouTube%20Subscribers&style=for-the-badge)
 <!--
 **SlyderSlash/SlyderSlash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
