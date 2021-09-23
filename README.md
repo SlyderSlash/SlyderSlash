@@ -1,10 +1,9 @@
 # SlyderSlash
 
----
 
 ![GitHub followers](https://img.shields.io/github/followers/SlyderSlash?style=plastic) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC_RuSv1RvzZebVuo3EUYHSA?label=YouTube%20Subscribers&style=plastic)
 
----
+
 
 ## 🧑‍💻 Language & Framework
 
