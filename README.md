@@ -16,14 +16,16 @@
 
 #### Text Editor & IDE
 
-![VSCode](https://img.shields.io/badge/Editeur-VSCode-blue?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=blue) ![SublimeText](https://img.shields.io/badge/Editeur-SublimeText-blue?style=for-the-badge&logo=Sublime%20Text&logoColor=yellow)
+![VSCode](https://img.shields.io/badge/Editeur-VSCode-blue?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=blue) ![SublimeText](https://img.shields.io/badge/Editeur-SublimeText-blue?style=for-the-badge&logo=Sublime%20Text&logoColor=yellow) ![AndroidStudio](https://img.shields.io/badge/IDE-Android%20Studio-green?style=for-the-badge&logo=Android%20Studio&logoColor=green)
 
 #### Platform
 
 ![MacOSX](https://img.shields.io/badge/Platform-MAC%20OS%20X-inactive?style=for-the-badge&logo=macOS) ![Windows](https://img.shields.io/badge/Platform-Windows%2010-inactive?style=for-the-badge&logo=Windows&logoColor=blue) ![Android](https://img.shields.io/badge/Platform-Android-inactive?style=for-the-badge&logo=Android&logoColor=green)
 
---
+
 
 ## 💻 Configuration
 
-![Processeur](https://img.shields.io/badge/Processeur-Intel%20i5%208257U-blue?style=flat&logo=appveyor)![Ram](https://img.shields.io/badge/RAM-8%20Go-orange?style=flat&logo=appveyor) ![OS](https://img.shields.io/badge/OS-MAC%20OS%20X-inactive?style=flat&logo=appveyor)
+![Processor](https://img.shields.io/badge/Processor-Intel%20i5%208257U-blue?style=flat&logo=Intel&logoColor=blue)![Ram](https://img.shields.io/badge/RAM-8%20Go-orange?style=flat&logo=appveyor) ![OS](https://img.shields.io/badge/OS-MAC%20OS%20X-inactive?style=flat&logo=appveyor)
+---
+![Mouse](https://img.shields.io/badge/Mouse-Dark%20Core%20RGB%20SE-green?style=flat&logo=Corsair&logoColor=green) ![Keyboard](https://img.shields.io/badge/Keyboard-Jelly%20Comb-green?style=flat&logo=Letterboxd&logoColor=inactive) ![Screen](https://img.shields.io/badge/Screen-XG49VQ-green?style=flat&logo=ASUS&logoColor=red)
