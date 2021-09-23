@@ -14,7 +14,7 @@
 
 ## 🧰 Toolbox
 
-![VSCode](https://img.shields.io/badge/Editeur-VSCode-blue?style=for-the-badge&logo=appveyor) ![SublimeText](https://img.shields.io/badge/Editeur-SublimeText-blue?style=for-the-badge&logo=appveyor)![MacOSX](https://img.shields.io/badge/Platform-MAC%20OS%20X-inactive?style=for-the-badge&logo=appveyor) ![Windows](https://img.shields.io/badge/Platform-Windows%2010-inactive?style=for-the-badge&logo=Windows?logoColor=blue) ![Android](https://img.shields.io/badge/Platform-Android-inactive?style=for-the-badge&logo=appveyor)
+![VSCode](https://img.shields.io/badge/Editeur-VSCode-blue?style=for-the-badge&logo=appveyor) ![SublimeText](https://img.shields.io/badge/Editeur-SublimeText-blue?style=for-the-badge&logo=appveyor)![MacOSX](https://img.shields.io/badge/Platform-MAC%20OS%20X-inactive?style=for-the-badge&logo=appveyor) ![Windows](https://img.shields.io/badge/Platform-Windows%2010-inactive?style=for-the-badge&logo=Windows&logoColor=blue) ![Android](https://img.shields.io/badge/Platform-Android-inactive?style=for-the-badge&logo=appveyor)
 
 --
 
