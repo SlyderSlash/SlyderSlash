@@ -1,7 +1,14 @@
-### Hi there 👋
+### 🧑‍💻SlyderSlash🧑‍💻
 
+---
 
 ![GitHub followers](https://img.shields.io/github/followers/SlyderSlash?style=plastic) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC_RuSv1RvzZebVuo3EUYHSA?label=YouTube%20Subscribers&style=plastic)
+
+---
+
+🧰 Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://worldvectorlogo.com/logos/macos-sierra.svg" alt="MacOS" width="50" height="50"/> <img src="https://worldvectorlogo.com/logos/php-1.svg" alt="PHP" width="50" height="50"/> <img src="https://worldvectorlogo.com/logos/react-2.svg" alt="MacOS" width="50" height="50"/>
 <!--
 **SlyderSlash/SlyderSlash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
