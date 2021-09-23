@@ -24,7 +24,7 @@
 
 #### Network
 
-![Discord](https://img.shields.io/badge/Network-Discord-violet?style=for-the-badge&logo=Discord&logoColor=violet)
+![Discord](https://img.shields.io/badge/Network-Discord-violet?style=for-the-badge&logo=Discord&logoColor=violet) ![LinkedIn](https://img.shields.io/badge/Network-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=blue&link=https://www.linkedin.com/in/snage-j-taupin/)
 
 ## 💻 Configuration
 
