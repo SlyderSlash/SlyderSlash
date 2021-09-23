@@ -20,12 +20,14 @@
 
 #### Platform
 
-![MacOSX](https://img.shields.io/badge/Platform-MAC%20OS%20X-inactive?style=for-the-badge&logo=macOS) ![Windows](https://img.shields.io/badge/Platform-Windows%2010-blue?style=for-the-badge&logo=Windows&logoColor=blue) ![Android](https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=Android&logoColor=green)
+![MacOSX](https://img.shields.io/badge/Platform-MAC%20OS%20X-inactive?style=for-the-badge&logo=macOS) ![Windows](https://img.shields.io/badge/Platform-Windows%2010-blue?style=for-the-badge&logo=Windows&logoColor=blue) ![Android](https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=Android&logoColor=green) ![IOS](https://img.shields.io/badge/Platform-IOS-inactive?style=for-the-badge&logo=iOS&logoColor=inactive)
 
+#### Network
 
+![Discord](https://img.shields.io/badge/Network-Discord-violet?style=for-the-badge&logo=Discord&logoColor=violet)
 
 ## 💻 Configuration
 
-![Processor](https://img.shields.io/badge/Processor-Intel%20i5%208257U-blue?style=flat&logo=Intel&logoColor=blue)![Ram](https://img.shields.io/badge/RAM-8%20Go-orange?style=flat&logo=appveyor) ![OS](https://img.shields.io/badge/OS-MAC%20OS%20X-inactive?style=flat&logo=appveyor)
+![Processor](https://img.shields.io/badge/Processor-i5%208257U-blue?style=flat&logo=Intel&logoColor=blue) ![Ram](https://img.shields.io/badge/RAM-8%20Go-orange?style=flat&logo=appveyor) ![OS](https://img.shields.io/badge/OS-MAC%20OS%20X-inactive?style=flat&logo=appveyor)
 ---
-![Mouse](https://img.shields.io/badge/Mouse-Dark%20Core%20RGB%20SE-green?style=flat&logo=Corsair&logoColor=green) ![Keyboard](https://img.shields.io/badge/Keyboard-Jelly%20Comb-green?style=flat&logo=Letterboxd&logoColor=inactive) ![Screen](https://img.shields.io/badge/Screen-XG49VQ-green?style=flat&logo=ASUS&logoColor=red)
+![Mouse](https://img.shields.io/badge/Mouse-Dark%20Core%20RGB%20SE-green?style=flat&logo=Corsair&logoColor=green) ![Keyboard](https://img.shields.io/badge/Keyboard-Jelly%20Comb-inactive?style=flat&logo=Letterboxd&logoColor=inactive) ![Screen](https://img.shields.io/badge/Screen-XG49VQ-red?style=flat&logo=ASUS&logoColor=red)
