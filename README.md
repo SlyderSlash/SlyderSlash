@@ -27,6 +27,6 @@
 
 ## 💻 Configuration
 
-![Processor](https://img.shields.io/badge/Processor-i5%208257U-blue?style=flat&logo=Intel&logoColor=blue) ![Ram](https://img.shields.io/badge/RAM-8%20Go-orange?style=flat&logo=appveyor) ![OS](https://img.shields.io/badge/OS-MAC%20OS%20X-inactive?style=flat&logo=Apple)
+![Processor](https://img.shields.io/badge/Processor-i5%208257U-blue?style=flat&logo=Intel&logoColor=blue) ![Ram](https://img.shields.io/badge/RAM-8%20Go-orange?style=flat&logo=appveyor) ![OS](https://img.shields.io/badge/OS-MAC%20OS%20X-inactive?style=flat&logo=macOS)
 ---
-![Mouse](https://img.shields.io/badge/Mouse-Dark%20Core%20RGB%20SE-green?style=flat&logo=Corsair&logoColor=green) ![Keyboard](https://img.shields.io/badge/Keyboard-Jelly%20Comb-inactive?style=flat&logo=Letterboxd&logoColor=inactive) ![Screen](https://img.shields.io/badge/Screen-XG49VQ-red?style=flat&logo=ASUS&logoColor=red) ![WiFi](https://img.shields.io/badge/WiFi-AirPort%20Extreme-inactive?style=flat&logo=Apple)
+![Mouse](https://img.shields.io/badge/Mouse-Dark%20Core%20RGB%20SE-green?style=flat&logo=Corsair&logoColor=green) ![Keyboard](https://img.shields.io/badge/Keyboard-Jelly%20Comb-inactive?style=flat&logo=Letterboxd&logoColor=inactive) ![Screen](https://img.shields.io/badge/Screen-XG49VQ-red?style=flat&logo=ASUS&logoColor=red) ![WiFi](https://img.shields.io/badge/WiFi-AirPort%20Extreme-inactive?style=flat&logo=Apple&?logoWidth=60)
