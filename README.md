@@ -8,7 +8,7 @@
 ## 🧑‍💻 Language & Framework
 
 <img src="https://worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="50" height="50"/> <img src="https://worldvectorlogo.com/logos/php-1.svg" alt="PHP" width="50" height="50"/> <img src="https://worldvectorlogo.com/logos/react-2.svg" alt="React" width="50" height="50"/> <img src="https://worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL" width="50" height="50"/>
-<img src="https://img.shields.io/badge/-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&logoWidth=100" />
 ---
 
 ## 🧰 Toolbox
